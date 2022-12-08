@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import sympy as sp
 from typing import List
-from dataclasses import dataclass
 
 from print_options import PrintOptions
 from quantity import PhysicalQuantity

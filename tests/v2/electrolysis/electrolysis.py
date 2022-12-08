@@ -25,6 +25,6 @@ f.set_values_and_uncertainties({
 })
 
 # 7. Get results
+f.set_print_options(4)
 results = f.calculate()
-f.set_print_options(3)
 print(results)
